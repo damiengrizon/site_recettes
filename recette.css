@@ -45,7 +45,6 @@ h1{
 }
 p.description{
     text-align: center;
-    width: 350px;
     display: inline-block;
     font-size: 15px;
     /*commentaire en CSS*/
